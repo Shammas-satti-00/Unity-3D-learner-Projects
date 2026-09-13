@@ -11,20 +11,6 @@ Each project explores different aspects of Unity — from first-person shooters 
 All projects were built using **Unity 2022+**.  
 Each subfolder contains its own `Assets`, `ProjectSettings`, and `Packages` directories.
 
----
-
-## 📦 Folder Structure
-```
-Unity-3D-learner-Projects/
-│
-├── 3D FPS Game/
-├── Furious Racer/
-├── Fabulous Shooter/
-├── Atiana Roblox Unity 3D/
-├── Paladin of the North/
-├── Mars Vanguard/
-└── Mountain Descent/
-```
 
 Each folder represents an individual Unity project.
 
